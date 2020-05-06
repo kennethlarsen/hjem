@@ -8,5 +8,13 @@ p {
 
 h1 {
   font-size: 60px;
-  line-height: 20px;
+  margin: 0;
+}
+
+a {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
 }
